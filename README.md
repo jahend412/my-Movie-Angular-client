@@ -18,7 +18,7 @@ TypeScript, Angular, TypeDoc
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Deployed app link
-https://jahend412.github.io/myMovie-Angular-client/
+https://jahend412.github.io/my-Movie-Angular-client/welcome
 
 ## Code scaffolding
 
