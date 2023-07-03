@@ -1,34 +1,37 @@
 # MyMovieAngularClient
-The client-side for an application called myFlix based on its existing server-side code (REST API and database), with supporting documentation.
+The client-side application for myMovie is an application built on an existing server-side codebase consisting of a REST API and a database. This documentation provides an overview of the client-side codebase along with relevant information.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+## Project Details
+This project was generated using Angular CLI version 15.0.0.
 
 ## Key features
 
-- The app should display a welcome view where users will be able to either log in or register an account.
-- Once authenticated, the user should now view all movies.
-- Upon clicking on a particular movie, users will be taken to a single movie view, where additional movie details will be displayed.
+* Welcome View: The app displays a welcome view where users can either log in or register an account.
+* Movie Display: Once authenticated, users can view all available movies.
+* Single Movie View: Clicking on a movie redirects users to a detailed view of the selected movie, providing additional information.
 
 ## Technologies used
 
-TypeScript, Angular, TypeDoc
+* TypeScript
+* Angular
+* TypeDoc
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+To run the development server, execute the command `ng serve`. The application will be hosted at http://localhost:4200/ and automatically reload if any source files are modified.
 
-## Deployed app link
-https://jahend412.github.io/my-Movie-Angular-client/welcome
+## Deployed App
+The deployed application can be accessed at https://jahend412.github.io/my-Movie-Angular-client/welcome
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To generate a new component, use the command `ng generate component component-name`. Additionally, you can utilize other code scaffolding options such as generating directives, pipes, services, classes, guards, interfaces, enums, and modules.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To build the project, execute the command `ng build`. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
@@ -36,11 +39,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Further Assistance
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For more help on the Angular CLI, use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-![LoginView](/img/LoginView.png?raw=true)
-![RegistrationView](/img/RegistrationView.png?raw=true)
-![MovieView](/img/MovieView.png?raw=true)
+Feel free to reach out if you require any additional assistance or have further inquiries.  
 
